@@ -2,25 +2,29 @@
 
 ## Présentation
 
-Ce site rassemble les travaux consacrés à la preuve négative, à la non-clôture probatoire et au régime de clôture contre-productive.
+Cette théorie décrit les transformations contemporaines du doute lorsque la clôture d'une affaire ne parvient plus à stabiliser durablement les interprétations qui lui sont associées.
+
+Elle s'articule autour de quatre concepts principaux :
+
+* Preuve négative
+* Non-clôture probatoire
+* Régime de clôture contre-productive
+* Clôture autoneutralisée
 
 ## Articles
 
 ### Article 1
 
-[DOI Zenodo]
+[https://doi.org/10.5281/zenodo.20111826]
 
 ### Article 2
 
-[DOI Zenodo]
+[https://doi.org/10.5281/zenodo.20774203]
 
-## Thread
+## Thread explicatif
 
-[Thread X]
+[https://x.com/Omega_Arta/status/2031290728677040269]
 
-## Concepts
+## Auteur
 
-- Preuve négative
-- Non-clôture probatoire
-- Régime de clôture contre-productive
-- Clôture autoneutralisée
+David D. F.
